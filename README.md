@@ -24,12 +24,12 @@ The feature selection techniques used are:
 3.Embedded Method
 
 # CODING AND OUTPUT:
-![alt text](<Screenshot 2025-04-16 183403.png>)
 ![alt text](<Screenshot 2025-04-16 183259.png>)
 ![alt text](<Screenshot 2025-04-16 183314.png>) 
 ![alt text](<Screenshot 2025-04-16 183328.png>) 
 ![alt text](<Screenshot 2025-04-16 183341.png>) 
 ![alt text](<Screenshot 2025-04-16 183353.png>)
+![alt text](<Screenshot 2025-04-16 183403.png>)
 '''
 https://colab.research.google.com/drive/1B0d8nz2WoAoDoVJ11BZ2_FIreEEYSidC?usp=sharing
 
